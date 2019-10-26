@@ -1,0 +1,22 @@
+{
+  "name": "perfect-number-calculator",
+  "version": "1.0.0",
+  "description": "Calculate perfect number",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/busradanisman/perfect-number.git"
+  },
+  "author": "Busra DANISMAN",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/busradanisman/perfect-number/issues"
+  },
+  "homepage": "https://github.com/busradanisman/perfect-number#readme",
+  "devDependencies": {
+    "jest": "^24.9.0"
+  }
+}
