@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/busradanisman/perfect-number#readme",
   "devDependencies": {
+    "coveralls": "^3.0.7",
     "jest": "^24.9.0"
   }
 }
